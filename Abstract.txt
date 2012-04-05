@@ -1,0 +1,11 @@
+Task Scheduling Problem for Heterogeneous systems is concerned with arranging the various tasks to be
+executed on various processors of a system so that computing resources are utilized most effectively. Efficient
+task scheduling is very necessary for achieving high performance in heterogeneous environments. The problem
+has been shown to be NP-Complete in general cases. Because of its importance, it has been studied extensively
+and various algorithms have been proposed till now of which most are designed for homogeneous systems.
+There have been few proposals for heterogeneous systems and research is still underway in the field.
+In this project we have devised a new algorithm which tries to improve the basic HEFT algorithm, one of the
+most efficient algorithms proposed till now, by applying task duplication in it. The comparative study of the
+proposed algorithm and the HEFT algorithm at the end shows that it is certainly an improvement for a class of
+graphs.
+
