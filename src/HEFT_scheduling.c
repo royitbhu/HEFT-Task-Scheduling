@@ -308,5 +308,5 @@ int main()
         	printf("TASK NO. : %d\n",sorted_tasks[i]);
     	make_schedule();
     	display_schedule();
-    	scanf("%d",i);
+    	scanf("%d",&i);
 }
